@@ -1,4 +1,4 @@
-# SPL231 Assignment 3: World Cup Update Subscription Service
+# BGU SPL Assignment 3: World Cup Update Subscription Service
 
 This project implements a **community-led World Cup update subscription service** using the **STOMP** (Simple Text Oriented Messaging Protocol). 
 
